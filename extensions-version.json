@@ -1,0 +1,59 @@
+{
+  "extensions": [
+    {
+      "name": "veo3-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/veo3-automator.zip"
+    },
+    {
+      "name": "capcut-script-sender",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/capcut-script-sender.zip"
+    },
+    {
+      "name": "gold-optimizer",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/gold-optimizer.zip"
+    },
+    {
+      "name": "google-tts-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/google-tts-automator.zip"
+    },
+    {
+      "name": "suno-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/suno-automator.zip"
+    },
+    {
+      "name": "whisk-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/whisk-automator.zip"
+    },
+    {
+      "name": "meta-ai-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/meta-ai-automator.zip"
+    },
+    {
+      "name": "midjourney-automator",
+      "version": "1.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/midjourney-automator.zip"
+    },
+    {
+      "name": "CLAUDE LOOP LESS v4.1",
+      "version": "4.1",
+      "downloadUrl": "https://nardoto.com.br/extensions/claude-loopless.zip"
+    },
+    {
+      "name": "GEMINI LOOPLESS V2.5",
+      "version": "2.5",
+      "downloadUrl": "https://nardoto.com.br/extensions/gemini-loopless.zip"
+    },
+    {
+      "name": "GPT LOOPLESS V5",
+      "version": "5.0",
+      "downloadUrl": "https://nardoto.com.br/extensions/gpt-loopless.zip"
+    }
+  ]
+}

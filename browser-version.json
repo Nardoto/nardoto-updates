@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.2/NardotoBrowser_Setup_v2.2.exe",
-  "releaseNotes": "Novas extensoes: Grok Automator e mais"
+  "version": "2.3",
+  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.3/NardotoBrowser_Setup_v2.3.exe",
+  "releaseNotes": "Sistema de notificacoes de atualizacao implementado"
 }

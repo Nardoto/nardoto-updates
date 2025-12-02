@@ -2,6 +2,13 @@
   "news": [
     {
       "tag": "Novo",
+      "date": "02 Dez 2024",
+      "title": "Nardoto Browser 2.3 Disponivel!",
+      "desc": "Sistema de notificacoes implementado - Agora voce sera avisado sobre atualizacoes!",
+      "url": null
+    },
+    {
+      "tag": "Novo",
       "date": "01 Dez 2024",
       "title": "Nardoto Browser 2.2 Disponivel!",
       "desc": "Nova extensao Grok Automator e melhorias nas extensoes existentes.",

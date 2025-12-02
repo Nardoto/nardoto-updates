@@ -2,6 +2,13 @@
   "news": [
     {
       "tag": "Novo",
+      "date": "01 Dez 2024",
+      "title": "Nardoto Browser 2.2 Disponivel!",
+      "desc": "Nova extensao Grok Automator e melhorias nas extensoes existentes.",
+      "url": null
+    },
+    {
+      "tag": "Update",
       "date": "30 Nov 2024",
       "title": "Nardoto Browser 2.0 Lancado!",
       "desc": "Nova interface categorizada com todas as suas ferramentas de IA organizadas por funcao.",

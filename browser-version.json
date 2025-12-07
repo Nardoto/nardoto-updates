@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
-  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.6/NardotoBrowser_Setup_v2.6.exe",
-  "releaseNotes": "Correcao de encoding UTF-8 nas extensoes"
+  "version": "2.7",
+  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.7/NardotoBrowser_Setup_v2.7.exe",
+  "releaseNotes": "Atualizacao agora substitui extensoes completamente"
 }

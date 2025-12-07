@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
-  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.3/NardotoBrowser_Setup_v2.3.exe",
-  "releaseNotes": "Sistema de notificacoes de atualizacao implementado"
+  "version": "2.4",
+  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.4/NardotoBrowser_Setup_v2.4.exe",
+  "releaseNotes": "Correcao do sistema de atualizacao automatica"
 }

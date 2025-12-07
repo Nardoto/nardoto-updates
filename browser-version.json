@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.4/NardotoBrowser_Setup_v2.4.exe",
-  "releaseNotes": "Correcao do sistema de atualizacao automatica"
+  "version": "2.6",
+  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.6/NardotoBrowser_Setup_v2.6.exe",
+  "releaseNotes": "Correcao de encoding UTF-8 nas extensoes"
 }

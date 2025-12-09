@@ -6,9 +6,14 @@
       "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.0/veo3-automator.zip"
     },
     {
-      "name": "capcut-script-sender",
+      "name": "CapCut Prompt Extractor",
       "version": "1.0",
-      "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.0/capcut-script-sender.zip"
+      "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.0/CapCut-Prompt-Extractor.zip"
+    },
+    {
+      "name": "CapCut-Automator",
+      "version": "1.0",
+      "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.0/CapCut-Automator.zip"
     },
     {
       "name": "gold-optimizer",

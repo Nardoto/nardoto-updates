@@ -1,5 +1,5 @@
 {
-  "version": "2.9",
-  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v2.9/NardotoBrowser_Setup_v2.9.exe",
-  "releaseNotes": "Limpeza forcada de extensoes antigas na atualizacao"
+  "version": "3.0",
+  "downloadUrl": "https://github.com/Nardoto/nardoto-updates/releases/download/v3.0/NardotoBrowser_Setup_v3.0.exe",
+  "releaseNotes": "Correcao de referencias de extensoes renomeadas (CapCut-Automator e CapCut Prompt Extractor)"
 }

@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
-  "downloadUrl": "https://github.com/LoopLess-nardoto/NardotoBrowser/releases/download/v3.3/NardotoBrowser_Setup_v3.3.exe",
-  "releaseNotes": "Videos tutoriais na New Tab, VEO3 Automator v3.6.2 com suporte a nomes truncados, Whisk Automator v2.6.2 com layout melhorado"
+  "version": "3.4",
+  "downloadUrl": "https://github.com/LoopLess-nardoto/NardotoBrowser/releases/download/v3.4/NardotoBrowser_Setup_v3.4.exe",
+  "releaseNotes": "VEO3 Automator v3.8.1, Whisk Automator v2.6.4, correcoes de bugs e melhorias"
 }
